@@ -1,7 +1,7 @@
 {
       "name"                        : "related-mysql-query-compiler"
     , "description"                 : "MySQL query compiler infrastructure for the related ORM"
-    , "version"                     : "0.1.1"
+    , "version"                     : "0.1.2"
     , "homepage"                    : "https://github.com/eventEmitter/related-mysql-query-compiler"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)"
     , "license"                     : "MIT"
