@@ -1,5 +1,7 @@
 # related-mysql-query-compiler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/related-mysql-query-compiler.svg)](https://greenkeeper.io/)
+
 MySQL query compiler infrastructure for the related ORM
 
 
